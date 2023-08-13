@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("NunitoSans_10pt-Regular.woff") format("woff2"),
+             url("NunitoSans_10pt-Regular.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("NunitoSans_10pt-Italic.woff") format("woff2"),
+             url("NunitoSans_10pt-Italic.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "Yeseva One";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("YesevaOne-Regular.woff") format("woff2"),
+             url("YesevaOne-Regular.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "Kanit";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Nunito Sans"),
+             url("Kanit-Regular.woff2") format("woff2"),
+             url("Kanit-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Kanit";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("Kanit-Italic.woff2") format("woff2"),
+             url("Kanit-Italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Arvo";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("Arvo-Regular.woff2") format("woff2"),
+             url("Arvo-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Arvo";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Nunito Sans"),
+             url("Arvo-Italic.woff2") format("woff2"),
+             url("Arvo-Italic.woff") format("woff");
+}
